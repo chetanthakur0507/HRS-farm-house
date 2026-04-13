@@ -67,9 +67,7 @@ export default function OnDemandServicesSection() {
         <div className="mx-auto mb-14 max-w-3xl text-center">
           <span className="section-label mb-3 block">On-Demand Services</span>
           <h2 className="section-title">Everything You Need Right After Booking</h2>
-          <p className="mt-4 muted-copy">
-            Hero section ke neeche ye full service catalog aapke guests ko clear idea deta hai ki event ke liye kaun kaun se premium options available hain.
-          </p>
+          
         </div>
 
         <div className="grid gap-6 sm:grid-cols-2 xl:grid-cols-3">

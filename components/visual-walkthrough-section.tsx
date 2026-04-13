@@ -43,9 +43,7 @@ export default function VisualWalkthroughSection() {
         <div className="mx-auto mb-12 max-w-3xl text-center">
           <span className="section-label mb-3 block">Visual Walkthrough</span>
           <h2 className="section-title">Walk Through The Venue Before You Visit</h2>
-          <p className="mt-4 muted-copy">
-            Is section mein photos auto chalti rahengi, jisse clients ko entry, stage, lawn aur decor flow ka real feel milta hai.
-          </p>
+          
         </div>
 
         <div className="space-y-4 rounded-[2rem] border border-white/10 bg-white/[0.04] p-4 md:p-6">

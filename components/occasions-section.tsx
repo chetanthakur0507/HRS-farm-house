@@ -16,9 +16,7 @@ export default function OccasionsSection({ occasions }: OccasionsSectionProps) {
             <span className="section-label mb-3 block">Our Expertise</span>
             <h2 className="section-title">Perfect for Every Occasion</h2>
           </div>
-          <p className="max-w-md text-brand-cream/70 md:text-right">
-            We create bespoke arrangements for private gatherings, festive nights, and milestone celebrations with a premium finish.
-          </p>
+          
         </div>
 
         <div className="grid grid-cols-2 gap-4 md:grid-cols-4">

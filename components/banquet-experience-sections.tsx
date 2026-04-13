@@ -111,9 +111,7 @@ export default function BanquetExperienceSections() {
           <div className="mb-14 text-center">
             <span className="section-label mb-3 block">Venue Zones</span>
             <h2 className="section-title">Banquet Spaces Designed For Every Ceremony</h2>
-            <p className="mx-auto mt-4 max-w-3xl muted-copy">
-              Har section ko event flow ke hisab se plan kiya gaya hai so that guests enjoy every moment from entry to final dinner service.
-            </p>
+            
           </div>
 
           <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
