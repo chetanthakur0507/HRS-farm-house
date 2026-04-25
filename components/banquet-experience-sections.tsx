@@ -110,7 +110,7 @@ export default function BanquetExperienceSections() {
         <div className="mx-auto max-w-7xl">
           <div className="mb-14 text-center">
             <span className="section-label mb-3 block">Venue Zones</span>
-            <h2 className="section-title">Spaces Design For Every Ceremony</h2>
+            <h2 className="section-title">Banquet Spaces </h2>
             
           </div>
 
